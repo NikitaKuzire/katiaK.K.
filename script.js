@@ -108,13 +108,13 @@ kartseven.style.transition = "transform 0.5s ease, width 0.5s ease, height 0.5s 
 kartseven.addEventListener('mouseover', function() {
     setTimeout(() => {
         kartseven.style.transform = "scale(1.2)"; 
-       kartseven.style.width = "450px"; 
+       kartseven.style.width = "300px"; 
         kartseven.style.height = "350px";
     }, 500);
 });
 
 kartseven.addEventListener('mouseout', function() {
     kartseven.style.transform = "scale(1)"; 
-    kartseven.style.width = "250px"; 
+    kartseven.style.width = "100px"; 
     kartseven.style.height = "150px"; 
 });
