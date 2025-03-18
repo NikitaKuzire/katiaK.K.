@@ -33,40 +33,43 @@ body{
         text-align: center;
 }
 
-
 .fhoto {
-    text-align: center;
-    margin-top: 35px;
-   }
+ text-align: center;
+ margin-top: 35px;
+ 
+}
 
-
-   
 .photoone{
-    padding-left: 5px;
-     padding-right: 5px;
-  }
-  .phototwo{
-   padding-left: 5px;
-     padding-right: 5px;
-  }
-  .photothree{
-   padding-left: 5px;
-     padding-right: 5px;
-  }
-  .photofour{
-   padding-left: 5px;
-     padding-right: 5px;
-  }
-  .photofive{
-   padding-left: 5px;
-     padding-right: 5px;
-  }
-  .photosix{
-       padding-left: 5px;
-     padding-right: 5px;
-  }
-  .photoseven{
-       padding-left: 5px;
-     padding-right: 5px;
-  }
-  
+  padding-left: 5px;
+   padding-right: 5px;
+}
+.phototwo{
+ padding-left: 5px;
+   padding-right: 5px;
+}
+.photothree{
+ padding-left: 5px;
+   padding-right: 5px;
+}
+.photofour{
+ padding-left: 5px;
+   padding-right: 5px;
+}
+.photofive{
+ padding-left: 5px;
+   padding-right: 5px;
+}
+.photosix{
+     padding-left: 5px;
+   padding-right: 5px;
+}
+.photoseven{
+     padding-left: 5px;
+   padding-right: 5px;
+}
+
+
+
+h1{
+  color: rgb(136, 60, 103);
+}
