@@ -73,3 +73,38 @@ body{
 h1{
   color: rgb(136, 60, 103);
 }
+
+
+
+
+.fero{
+   text-align: center;
+   background-color: #ffc5e0;
+   padding: 50px;
+   display: inline-block;
+  
+}
+
+.zap{
+
+display: inline-block;
+ text-align: center;
+   background-color: #ffc5e0;
+   padding: 50px;
+}
+
+.ruch{
+  margin-bottom: -65px;
+}
+
+.fer {
+   text-align: center;
+}
+
+.ddd{
+   text-align: center;
+}
+
+.iul{
+   font-size: 25px;
+}
